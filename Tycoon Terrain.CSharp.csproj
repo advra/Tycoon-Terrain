@@ -66,6 +66,7 @@
     <Compile Include="Assets\MapDisplay.cs" />
     <Compile Include="Assets\MapGenerator.cs" />
     <Compile Include="Assets\Noise.cs" />
+    <Compile Include="Assets\TextureGenerator.cs" />
     <Compile Include="Assets\genTerrain.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
